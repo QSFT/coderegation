@@ -1,16 +1,18 @@
 # Site Info
-title:              "Coderegation @ Balabit"
-description:        "We congregate spontaneously to watch nerdy videos."
-google_verify:      # Put your Google Verification here
-google_analytics:   UA-3350024-45
+title:              "Prodregation @ Balabit"
+description:        "We congregate spontaneously to watch product management-related videos."
+
+# TODO re-add Analytics
+#google_verify:      # Put your Google Verification here
+#google_analytics:   UA-3350024-45
 
 # Author Info
-author_name:        "Balabit Congregation Team"
-author_email:       info@balabit.com
-twitter_username:   balabit
+author_name:        "Peter Gyongyosi"
+author_email:       peter.gyongyosi@oneidentity,com
+twitter_username:   gyp
 
 # Site Settings
-baseurl:            "/coderegation" # Base URL must end WITHOUT a slash, default: ""
+baseurl:            "/prodregation" # Base URL must end WITHOUT a slash, default: ""
 permalink:          /notes/:year-:month-:day-:title # Post permalink
 timezone:           Europe/Budapest
 
