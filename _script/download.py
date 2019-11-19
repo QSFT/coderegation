@@ -24,7 +24,7 @@ args = parser.parse_args()
 issue_id = args.id
 date = args.date
 
-response = requests.get(url=f'https://api.github.com/repos/QSFT/prodregation/issues/{issue_id}')
+response = requests.get(url=f'https://api.github.com/repos/QSFT/most_viewable/issues/{issue_id}')
 data = response.json()
 description = data['body']
 print(f'Preparing "{data["title"]}" at "{date}"')

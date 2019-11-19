@@ -1,6 +1,6 @@
 # Site Info
-title:              "Prodregation @ Balabit"
-description:        "We congregate spontaneously to watch product management-related videos."
+title:              "Most Viewable Presentations @ One Identity"
+description:        "We gather spontaneously to watch the Most Viewable Presentations about product management."
 
 # TODO re-add Analytics
 #google_verify:      # Put your Google Verification here
@@ -12,7 +12,7 @@ author_email:       peter.gyongyosi@oneidentity,com
 twitter_username:   gyp
 
 # Site Settings
-baseurl:            "/prodregation" # Base URL must end WITHOUT a slash, default: ""
+baseurl:            "/most_viewable" # Base URL must end WITHOUT a slash, default: ""
 permalink:          /notes/:year-:month-:day-:title # Post permalink
 timezone:           Europe/Budapest
 
