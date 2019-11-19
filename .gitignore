@@ -1,6 +1,7 @@
 # Generated site
 /_site
 /.sass-cache
+/.jekyll-cache
 
 # Windows image file caches
 Thumbs.db
