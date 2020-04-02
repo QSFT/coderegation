@@ -17,3 +17,10 @@ Do we truly understand the community we’re building for?
 Where and how do we store data?
 If we deliver a “cool” product, how does the tool mine user information and who is actually responsible for it?
 How can the issue of failed or poorly designed services that can lead to issues of human rights, justice and ethical concerns be addressed?
+
+Notes from our internal discussions:
+
+* We arrived at the age-old debate around the responsibility of knife- and gunmakers in about two seconds. Do guns kill people or is it people that do?
+* We could agree though that it's *not* the responsibility of a creator to anticipate and be responsible for every kind of malicious use of their creation, but *it absolutely is* their responsibility to react to known ways of misuse.
+* Is there such a thing as objective ethics? Implementing your ethical decisions into your products is a way of forcing your own point of view on your users -- is that a problem though?
+* There's of course an app to make ethics decisions: <https://www.scu.edu/ethics-app/>
