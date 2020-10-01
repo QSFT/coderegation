@@ -1,5 +1,5 @@
 ---
-speaker: https://medium.com/@iamctodd
+speaker: C Todd Lombardo 
 topic: Product Research Rules
 video: https://www.mindtheproduct.com/product-research-rules-by-c-todd-lombardo/
 issue: 17
